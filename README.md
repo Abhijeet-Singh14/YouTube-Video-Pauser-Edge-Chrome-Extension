@@ -36,7 +36,9 @@ Follow these steps to install the extension:
 
 3. Restart your browser to make the Extension work on All the Opened tabs of Youtube.
 
-4. Now Click on the extension icon in the extension toolbar and click once on Deactivate Extension button from the popup menu that appears.
+4. Now Click on the extension icon in the extension toolbar and click once on Deactivate Extension button from the popup menu that appears. Again restart your browser once.
+
+5. Now the Extensions Activate/Deactivate Button is Fully activated and you can use it to Activate/Deactivate the Extension.
 
 ## Usage
 
