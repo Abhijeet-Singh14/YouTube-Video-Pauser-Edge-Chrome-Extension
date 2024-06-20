@@ -11,6 +11,13 @@ The **YouTube Video Pauser** Chrome Extension helps you automatically pause YouT
 - Automatically pauses YouTube videos when switching to another tab.
 - Resumes video playback when returning to the YouTube tab.
 
+# Highlights of this Release:
+
+- Added a button to Activate/Deactivate the extension manually.
+- Added a notification content showing the user when the extension is Activated/Deactivated.
+- Added Color change in the Activate/Deactivate Extension button depending on the state of the Extension.
+
+  
 ## Installation
 
 Follow these steps to install the extension:
@@ -37,11 +44,6 @@ Follow these steps to install the extension:
    - Switching back to the YouTube tab will resume video playback.
    - Added feature of pausing the playback on minimizing the tab and playing back when it is restored.
 
-# Highlights of this Release:
-
-- Added a button to Activate/Deactivate the extension manually.
-- Added a notification content showing the user when the extension is Activated/Deactivated.
-- Added Color change in the Activate/Deactivate Extension button depending on the state of the Extension.
 
 ## Contributing
 
