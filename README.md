@@ -34,6 +34,10 @@ Follow these steps to install the extension:
    - Enable "Developer mode" in the top right corner.
    - Click on "Load unpacked" and select the directory where the extension files (`manifest.json`, `popup.html`, `popup.js`, `background.js`, `images/`) are located.
 
+3. Restart your browser to make the Extension work on All the Opened tabs of Youtube.
+
+4. Now Click on the extension icon in the extension toolbar and click once on Deactivate Extension button from the popup menu that appears.
+
 ## Usage
 
 1. **Activate/Deactivate the Extension:**
