@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Video Pauser",
+  "version": "2.0.0",
+  "description": "Pauses a YouTube video when switching tabs and unpauses when switching back.",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  }
+}

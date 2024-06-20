@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><strong>YouTube Video Pauser</strong></title>
+    <style>
+        body {
+          background-color: #f0f0f0; /* Initial background color */
+          animation: colorChange 5s infinite; /* Apply animation */
+        }
+    
+        @keyframes colorChange {
+          0%   { background-color: rgb(176, 176, 196); } /* Light Lavender */
+          25%  { background-color: rgb(238, 186, 186); } /* Light Pink */
+          50%  { background-color: rgb(164, 239, 164); } /* Light Green */
+          75%  { background-color: rgb(251, 251, 179); } /* Light Yellow */
+          100% { background-color: rgb(192, 192, 226); } /* Light Lavender */
+        }
+      </style>
+    <style>
+        body {
+            font-family: Brush Script MT, cursive;
+            text-align: center; /* Center-align text within the body */
+            width: 240px;
+            padding: 10px;
+        }
+       
+        h1 {
+      font-size: 20px; /* Larger font size */
+      text-align: center; /* Center-align text within the body */
+      justify-content: center; /* Center-align items horizontally */
+      font-weight: bold; /* Bold font */
+      color: #333; /* Darker color */
+     letter-spacing: 1px; /* Increased letter spacing */
+      margin-bottom: 20px; /* Increased bottom margin */
+    }
+       
+    h1 img {
+      margin-right: 10px; /* Space between icon and text */
+      width: 24px; /* Adjust width of the icon */
+      height: auto; /* Maintain aspect ratio */
+      vertical-align: middle; /* Align the icon vertically with text */
+    }
+
+    button {
+            border-radius: 20px; /* Rounded corners */
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 14px;
+            cursor: pointer;
+            background-color: rgb(28, 201, 25);
+        }
+        button.active {
+            background-color: rgb(187, 16, 16);
+            color: rgb(255, 255, 255);
+        }
+
+        #notification {
+      margin-top: 10px;
+      font-weight: bold; /* Bold font */
+      font-size: 16px; /* Larger font size */
+      color: red; /* Default color for error messages */
+    }
+    </style>
+</head>
+<body>
+  <h1><img src="images/icon.png" alt="Icon"> YouTube Video Pauser</h1> <!-- Updated title with icon -->
+    <button id="toggleBtn">Deactivate Extension</button>
+    <div id="notification"></div> <!-- Notification Container -->
+    <script src="popup.js"></script>
+</body>
+</html>
