@@ -30,11 +30,18 @@ Follow these steps to install the extension:
 ## Usage
 
 1. **Activate/Deactivate the Extension:**
-   - Click on the extension icon in the Chrome toolbar to activate or deactivate the extension.
+   - Click on the extension icon in the Chrome toolbar then click the Activate Extension button in the popup window that appears to activate the extension, again click of the Deactivate Extension button to deactivate the extension.
 
 2. **Automatic Video Pausing:**
    - When you switch to another tab while watching a YouTube video, the video playback will automatically pause.
    - Switching back to the YouTube tab will resume video playback.
+   - Added feature of pausing the playback on minimizing the tab and playing back when it is restored.
+
+# Highlights of this Release:
+
+- Added a button to Activate/Deactivate the extension manually.
+- Added a notification content showing the user when the extension is Activated/Deactivated.
+- Added Color change in the Activate/Deactivate Extension button depending on the state of the Extension.
 
 ## Contributing
 
