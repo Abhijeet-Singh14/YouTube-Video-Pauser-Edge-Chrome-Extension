@@ -1,4 +1,4 @@
-# YouTube-Video-Pauser-Edge-Chrome-Extension
+# YouTube-Video-Pauser-Edge-Chrome-Extension Version - 2
 
 # YouTube Video Pauser Chrome Extension
 
