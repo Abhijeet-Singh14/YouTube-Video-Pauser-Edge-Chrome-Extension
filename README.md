@@ -38,7 +38,7 @@ Follow these steps to install the extension:
 
 4. Now Click on the extension icon in the extension toolbar and click once on Deactivate Extension button from the popup menu that appears. Again restart your browser once.
 
-5. Now the Extensions Activate/Deactivate Button is Fully activated and you can use it to Activate/Deactivate the Extension.
+5. Now the Activate/Deactivate Button of the Extension is Fully activated and you can use it to Activate/Deactivate the Extension.
 
 ## Usage
 
