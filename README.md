@@ -19,7 +19,7 @@ Follow these steps to install the extension:
    - Download the repository as a ZIP file and extract it to your local machine.
    - Or clone the repository using Git:
      ```
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/Abhijeet-Singh14/YouTube-Video-Pauser-Edge-Chrome-Extension.git
      ```
 
 2. **Load the Extension in Chrome:**
@@ -57,8 +57,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, bug reports, or feature requests, please [submit an issue](https://github.com/your-username/your-repository/issues).
+For support, bug reports, or feature requests, please [submit an issue](https://github.com/Abhijeet-Singh14/YouTube-Video-Pauser-Edge-Chrome-Extension/issues).
 
 ---
 
-© 2024 Your Name
+© 2024 Abhijeet Singh
