@@ -76,4 +76,4 @@ For support, bug reports, or feature requests, please [submit an issue](https://
 
 ---
 
-© 2024 Abhijeet Singh
+© 2024  Abhijeet Singh
